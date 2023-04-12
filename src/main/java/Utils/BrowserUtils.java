@@ -1,4 +1,6 @@
-package A1QA.Browser;
+package Utils;
+
+import A1QA.Browser.Singleton;
 
 import java.io.IOException;
 import java.util.Set;

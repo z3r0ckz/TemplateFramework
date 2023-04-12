@@ -1,12 +1,10 @@
 import A1QA.Browser.ConfigManager;
 import A1QA.Browser.Singleton;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
-
+import Utils.MyLogger;
+import org.testng.annotations.*;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
+
 
 public class TestCases {
     @BeforeClass
@@ -24,7 +22,7 @@ public class TestCases {
     @Test(priority = 1)
     public void test1() throws IOException, InterruptedException {
         System.out.println("Test 1");
-
+        MyLogger.info("Test 1 First Log");
 
     }
 

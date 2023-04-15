@@ -1,6 +1,6 @@
 package A1QA.Browser;
 
-import Utils.UtilityClass;
+import Utils.BrowserUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -18,7 +18,7 @@ public class BrowserFactory {
             case "chrome" -> {
                 if (driver == null) {
                     ChromeOptions options = new ChromeOptions();
-                    options.addArguments(UtilityClass.readChromeBrowserConfig());
+                    options.addArguments(BrowserUtils.readChromeBrowserConfig());
                     WebDriverManager.chromedriver().setup();
                     return new ChromeDriver(options);
                 }
@@ -26,7 +26,7 @@ public class BrowserFactory {
             case "firefox" -> {
                 if (driver == null) {
                     FirefoxOptions optionsFx = new FirefoxOptions();
-                    optionsFx.addArguments(UtilityClass.readFirefoxConfig());
+                    optionsFx.addArguments(BrowserUtils.readFirefoxConfig());
                     WebDriverManager.firefoxdriver().setup();
                     return new FirefoxDriver(optionsFx);
                 }

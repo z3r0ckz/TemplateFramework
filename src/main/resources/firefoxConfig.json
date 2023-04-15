@@ -1,7 +1,6 @@
 [
   {
     "browserMode": "-private",
-    "language": "lang=en-GB",
-    "remoteAllow": "--remote-allow-origins=*"
+    "language": "lang=en-GB"
   }
 ]

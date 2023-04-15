@@ -1,35 +1,38 @@
 package Pages;
 
+import A1QA.Browser.Singleton;
+import Utils.WaitsUtil;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import java.awt.*;
+import java.io.IOException;
 
 public abstract class BaseForm {
-
-    protected WebDriver driver;
 
     public BaseForm(WebDriver driver) {
         this.driver = driver;
     }
 
-    protected void findElement(WebElement element, String text){
-        element.findElement(By.xpath(text));
-    }
-    protected void isDisplayed(WebElement element){
-        element.isDisplayed();
-    }
-    protected void getAttribute(WebElement element, String text){
-        element.getAttribute(String.valueOf(By.xpath(text)));
-    }
-    protected void sendText(WebElement element, String text) {
-        element.clear();
-        element.sendKeys(text);
+    By uniqueLocator;
+    String formName;
+    WebDriver driver;
+    WaitsUtil wait;
+
+    public BaseForm(By locator, String name, String browser) throws IOException {
+        uniqueLocator = locator;
+        formName = name;
+        driver = Singleton.Driver(browser);
+
     }
 
-    protected void click(WebElement element) {
-        element.click();
+    public boolean isPageOpen() throws IOException {
+        return wait.waitForElementToBeVisible(uniqueLocator);
     }
 
+    public Label getFormLabel(int formNumber) {
+        return new Label(formName, formNumber);
+    }
 
 }

@@ -1,19 +1,16 @@
 package A1QA.Browser;
 
 import org.openqa.selenium.WebDriver;
-
-import java.io.IOException;
-
-public class Singleton {
+public class Browser {
 
     private static WebDriver driver;
-    public static WebDriver Driver(String browserName) throws IOException {
 
+    public static WebDriver Driver() {
         if (driver == null) {
-            driver = BrowserFactory.getDriver(browserName);
+            driver = BrowserFactory.getDriver();
             driver.manage().window().maximize();
         }
-
         return driver;
     }
+
 }

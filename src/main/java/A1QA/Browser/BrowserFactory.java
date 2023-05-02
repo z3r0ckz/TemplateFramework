@@ -1,6 +1,5 @@
 package A1QA.Browser;
 
-import Utils.BrowserUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -8,31 +7,35 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
-import java.io.IOException;
-
 public class BrowserFactory {
     private static WebDriver driver;
-
-    public static WebDriver getDriver(String browserName) throws IOException {
-        switch (browserName.toLowerCase()) {
+    private static final ConfigManager config = new ConfigManager();
+    private static final String browserOpt = config.getProperty("browserOpt");
+    public static <browserOpt> WebDriver getDriver() {
+        WebDriver result = null;
+        switch (browserOpt) {
             case "chrome" -> {
                 if (driver == null) {
                     ChromeOptions options = new ChromeOptions();
-                    options.addArguments(BrowserUtils.readChromeBrowserConfig());
+                    options.addArguments(ChromeCaps.readChromeBrowserConfig());
                     WebDriverManager.chromedriver().setup();
-                    return new ChromeDriver(options);
+                    result = new ChromeDriver(options);
                 }
             }
             case "firefox" -> {
                 if (driver == null) {
                     FirefoxOptions optionsFx = new FirefoxOptions();
-                    optionsFx.addArguments(BrowserUtils.readFirefoxConfig());
+                    optionsFx.addArguments(FirefoxCaps.readFirefoxBrowserConfig());
                     WebDriverManager.firefoxdriver().setup();
-                    return new FirefoxDriver(optionsFx);
+                    result = new FirefoxDriver(optionsFx);
                 }
             }
-            default -> throw new IllegalArgumentException("Invalid browser name: " + browserName);
+            default -> throw new IllegalArgumentException("Invalid browser name: " + browserOpt);
         }
-        return driver;
+        if (result == null) {
+            result = driver;
+        }
+        return result;
     }
+
 }

@@ -1,0 +1,1403 @@
+23:06:39.177 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+23:06:39.221 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+23:06:42.734 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+23:06:48.574 [main] INFO  Utils.MyLogger - Start of the Alerts test
+23:06:49.204 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+23:06:49.298 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+23:06:49.738 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+23:06:49.746 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+23:13:31.935 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+23:13:31.978 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+23:13:35.604 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+23:13:41.725 [main] INFO  Utils.MyLogger - Start of the Alerts test
+23:13:42.415 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+23:13:42.501 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+23:13:42.862 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+23:13:42.870 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+23:40:01.344 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+23:40:01.390 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+23:40:05.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+23:40:10.973 [main] INFO  Utils.MyLogger - Start of the Alerts test
+23:40:11.829 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+23:40:11.929 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+23:40:13.174 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+23:40:13.174 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+23:40:14.118 [main] INFO  Utils.MyLogger - Simple Alert confirm
+23:40:14.135 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+23:49:29.823 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+23:49:29.864 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+23:49:33.494 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+23:49:38.849 [main] INFO  Utils.MyLogger - Start of the Alerts test
+23:49:39.462 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+23:49:39.540 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+23:49:39.888 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+23:49:39.888 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+23:49:40.690 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+23:51:19.001 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+23:51:19.035 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+23:51:23.012 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+23:51:27.330 [main] INFO  Utils.MyLogger - Start of the Alerts test
+23:51:27.574 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+23:51:27.671 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+23:51:27.911 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+23:51:27.911 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+23:51:28.684 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+23:57:12.579 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+23:57:12.610 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+23:57:14.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+23:57:19.910 [main] INFO  Utils.MyLogger - Start of the Alerts test
+23:57:20.144 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+23:57:20.192 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+23:57:20.405 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+23:57:20.405 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+23:57:21.055 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+23:58:15.452 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+23:58:15.488 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+23:58:17.661 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+23:58:23.077 [main] INFO  Utils.MyLogger - Start of the Alerts test
+23:58:23.303 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+23:58:23.348 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+23:58:23.561 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+23:58:23.561 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+23:58:24.116 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+23:59:52.541 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+23:59:52.575 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+23:59:55.074 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+23:59:59.759 [main] INFO  Utils.MyLogger - Start of the Alerts test
+23:59:59.989 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:00:00.101 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:00:00.412 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:00:00.414 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:00:01.416 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:00:27.981 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:00:28.015 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:00:30.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:00:35.101 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:00:35.333 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:00:35.379 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:00:35.584 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:00:35.584 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:00:36.137 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:01:52.573 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:01:52.607 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:01:54.830 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:02:00.230 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:02:00.546 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:02:00.669 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:02:00.999 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:02:00.999 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:02:01.565 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:02:01.570 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:11:09.804 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:11:09.836 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:11:12.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:11:17.184 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:11:17.413 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:11:17.460 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:11:17.679 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:11:17.679 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:11:18.087 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:11:18.088 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:11:18.472 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:16:08.860 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:16:08.899 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:16:11.482 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:16:16.232 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:16:16.477 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:16:16.525 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:16:16.795 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:16:16.795 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:16:17.324 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:16:17.324 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:16:17.559 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:22:13.816 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:22:13.846 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:22:16.224 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:22:16.236 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:22:18.235 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:22:23.465 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:22:23.732 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:22:23.785 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:22:24.107 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:22:24.107 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:22:24.693 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:22:24.693 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:22:30.016 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:23:30.690 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:23:30.720 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:23:33.190 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:23:33.211 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:23:34.622 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:23:40.111 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:23:40.395 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:23:40.480 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:23:40.696 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:23:40.696 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:23:41.189 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:23:41.189 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:23:47.685 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:26:45.496 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:26:45.527 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:26:47.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:26:52.363 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:26:52.595 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:26:52.642 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:26:52.855 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:26:52.855 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:26:53.316 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:26:53.316 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:26:53.558 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:27:36.829 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:27:36.869 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:27:39.490 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:27:39.500 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:27:41.246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:27:46.610 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:27:46.848 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:27:46.900 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:27:47.144 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:27:47.144 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:27:47.437 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:27:47.437 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:27:53.994 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:28:14.934 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:28:14.968 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:28:17.384 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:28:17.400 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:28:18.836 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:28:24.012 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:28:24.280 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:28:24.389 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:28:24.649 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:28:24.649 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:28:41.731 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:29:47.414 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:29:47.446 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:29:49.586 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:29:49.601 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:29:51.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:29:56.748 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:29:57.007 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:29:57.057 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:29:57.329 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:29:57.329 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:29:57.975 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:29:57.975 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:30:04.286 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:31:39.613 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:31:39.645 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:31:41.765 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:31:41.783 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:31:43.244 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:31:48.697 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:31:48.964 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:31:49.065 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:31:49.310 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:31:49.310 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:31:49.962 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:31:49.962 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:31:56.284 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:32:45.244 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:32:45.277 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:32:47.831 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:32:47.850 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:32:49.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:32:54.556 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:32:54.840 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:32:54.980 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:32:55.196 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:32:55.197 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:32:55.638 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:32:55.638 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:33:02.101 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:35:49.314 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:35:49.347 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:35:51.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:35:56.697 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:35:56.928 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:35:56.981 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:35:57.193 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:35:57.193 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:35:57.660 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:35:57.660 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:35:57.947 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:36:51.920 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:36:51.954 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:36:54.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:36:59.005 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:36:59.226 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:36:59.273 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:36:59.495 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:36:59.496 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:36:59.965 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:36:59.965 [main] INFO  Utils.MyLogger - Click on button time alerts 
+00:37:05.489 [main] INFO  Utils.MyLogger - Time Alert passed!
+00:37:05.494 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:42:58.538 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:42:58.557 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:43:01.079 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:43:06.348 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:43:06.579 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:43:06.621 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:43:06.843 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:43:06.843 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:43:07.331 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:43:07.331 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+00:43:07.338 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+00:44:28.008 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+00:44:28.042 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+00:44:31.019 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+00:44:35.636 [main] INFO  Utils.MyLogger - Start of the Alerts test
+00:44:35.878 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+00:44:35.924 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+00:44:36.149 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+00:44:36.149 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+00:44:36.891 [main] INFO  Utils.MyLogger - Simple Alert confirm
+00:44:36.891 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+00:44:36.897 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+01:16:04.643 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+01:16:04.676 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+01:16:07.211 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+01:16:12.352 [main] INFO  Utils.MyLogger - Start of the Alerts test
+01:16:12.586 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+01:16:12.633 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+01:16:12.802 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+01:16:12.803 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+01:16:13.058 [main] INFO  Utils.MyLogger - Simple Alert confirm
+01:16:13.059 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+01:16:13.595 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+01:16:13.606 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+01:16:13.728 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+01:16:59.684 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+01:16:59.717 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+01:17:02.678 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+01:17:06.963 [main] INFO  Utils.MyLogger - Start of the Alerts test
+01:17:07.183 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+01:17:07.230 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+01:17:07.570 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+01:17:07.570 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+01:17:08.133 [main] INFO  Utils.MyLogger - Simple Alert confirm
+01:17:08.134 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+01:17:08.327 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+01:17:08.332 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+01:17:08.432 [main] INFO  Utils.MyLogger - Click on prompt button
+01:17:08.633 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+01:21:37.797 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+01:21:37.834 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+01:21:40.603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+01:21:44.892 [main] INFO  Utils.MyLogger - Start of the Alerts test
+01:21:45.121 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+01:21:45.180 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+01:21:45.404 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+01:21:45.404 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+01:22:00.476 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+01:22:27.128 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+01:22:27.159 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+01:22:29.541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+01:22:34.723 [main] INFO  Utils.MyLogger - Start of the Alerts test
+01:22:34.943 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+01:22:35.007 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+01:22:35.207 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+01:22:35.207 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+01:22:35.574 [main] INFO  Utils.MyLogger - Simple Alert confirm
+01:22:35.574 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+01:22:35.792 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+01:22:35.798 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+01:22:35.916 [main] INFO  Utils.MyLogger - Click on prompt button
+01:22:38.370 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:26:02.011 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:26:02.125 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+10:26:02.683 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+10:26:04.115 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver_win32.zip
+10:26:04.452 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:26:08.911 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:26:16.444 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:26:17.212 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:26:17.276 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:26:17.803 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:33:59.029 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:33:59.072 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:34:02.692 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:34:07.626 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:34:08.215 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:34:08.311 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:34:09.020 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+10:34:09.020 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+10:34:09.513 [main] INFO  Utils.MyLogger - Simple Alert confirm
+10:34:09.513 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+10:34:10.741 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+10:34:10.752 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+10:34:11.003 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:43:19.402 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:43:19.464 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:43:23.298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:43:29.482 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:43:30.019 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:43:30.091 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:43:30.614 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+10:43:30.614 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+10:43:31.229 [main] INFO  Utils.MyLogger - Simple Alert confirm
+10:43:31.229 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+10:43:31.986 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+10:43:32.002 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+10:43:32.285 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:44:14.234 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:44:14.279 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:44:18.566 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:44:23.778 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:44:24.308 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:44:24.397 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:44:24.841 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+10:44:24.841 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+10:44:25.634 [main] INFO  Utils.MyLogger - Simple Alert confirm
+10:44:25.635 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+10:44:26.419 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+10:44:26.429 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+10:44:26.680 [main] INFO  Utils.MyLogger - Click on prompt button
+10:44:27.015 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:45:47.893 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:45:47.937 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:45:51.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:45:56.032 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:45:56.618 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:45:56.715 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:45:57.539 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+10:45:57.539 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+10:45:57.934 [main] INFO  Utils.MyLogger - Simple Alert confirm
+10:45:57.935 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+10:45:58.690 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+10:45:58.704 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+10:45:58.957 [main] INFO  Utils.MyLogger - Click on prompt button
+10:45:59.295 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:46:40.799 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:46:40.842 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:46:44.583 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:46:49.315 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:46:49.910 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:46:49.986 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:46:50.439 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+10:46:50.440 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+10:46:51.104 [main] INFO  Utils.MyLogger - Simple Alert confirm
+10:46:51.104 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+10:46:51.837 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+10:46:51.849 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+10:46:52.107 [main] INFO  Utils.MyLogger - Click on prompt button
+10:46:52.497 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:47:34.229 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:47:34.285 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:47:37.911 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:47:43.764 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:47:44.327 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:47:44.439 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:47:45.215 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+10:47:45.215 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+10:47:45.555 [main] INFO  Utils.MyLogger - Simple Alert confirm
+10:47:45.555 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+10:47:46.217 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+10:47:46.225 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+10:47:46.468 [main] INFO  Utils.MyLogger - Click on prompt button
+10:47:46.810 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:49:48.390 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:49:48.434 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:49:51.755 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:49:57.585 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:49:58.151 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:49:58.228 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:49:58.759 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+10:49:58.759 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+10:49:59.353 [main] INFO  Utils.MyLogger - Simple Alert confirm
+10:49:59.353 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+10:50:00.022 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+10:50:00.033 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+10:50:00.231 [main] INFO  Utils.MyLogger - Click on prompt button
+10:50:00.600 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:55:00.731 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:55:00.895 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:55:04.572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:55:12.221 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:55:12.801 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:55:12.873 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:55:13.269 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+10:55:13.270 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+10:55:13.963 [main] INFO  Utils.MyLogger - Simple Alert confirm
+10:55:13.963 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+10:55:14.550 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+10:55:14.561 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+10:55:14.767 [main] INFO  Utils.MyLogger - Click on prompt button
+10:55:15.143 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+10:55:56.363 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+10:55:56.402 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+10:56:00.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:56:05.027 [main] INFO  Utils.MyLogger - Start of the Alerts test
+10:56:05.545 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+10:56:05.612 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+10:56:05.995 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+10:56:05.995 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+10:56:06.702 [main] INFO  Utils.MyLogger - Simple Alert confirm
+10:56:06.702 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+10:56:07.222 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+10:56:07.233 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+10:56:07.464 [main] INFO  Utils.MyLogger - Click on prompt button
+10:56:07.771 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:00:25.885 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:00:25.932 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:00:29.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:00:36.489 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:00:37.011 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:00:37.127 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:00:37.490 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:00:37.490 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:00:38.331 [main] INFO  Utils.MyLogger - Simple Alert confirm
+11:00:38.331 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+11:00:39.077 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+11:00:39.085 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+11:00:39.307 [main] INFO  Utils.MyLogger - Click on prompt button
+11:00:39.708 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:02:42.453 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:02:42.496 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:02:46.246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:02:51.556 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:02:52.029 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:02:52.244 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:02:53.096 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:02:53.097 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:02:53.598 [main] INFO  Utils.MyLogger - Simple Alert confirm
+11:02:53.599 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+11:02:53.898 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+11:02:53.906 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+11:02:54.152 [main] INFO  Utils.MyLogger - Click on prompt button
+11:02:54.527 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:05:08.398 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:05:08.451 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:05:11.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:05:17.109 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:05:17.684 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:05:17.756 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:05:18.106 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:05:18.106 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:05:37.900 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:05:54.357 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:05:54.396 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:05:57.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:06:03.056 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:06:03.598 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:06:03.679 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:06:04.020 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:06:04.021 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:06:04.810 [main] INFO  Utils.MyLogger - Simple Alert confirm
+11:06:04.811 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+11:06:05.736 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+11:06:05.746 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+11:06:05.967 [main] INFO  Utils.MyLogger - Click on prompt button
+11:06:06.272 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:07:13.640 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:07:13.682 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:07:16.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:07:22.438 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:07:23.005 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:07:23.084 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:07:23.439 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:07:23.440 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:07:24.144 [main] INFO  Utils.MyLogger - Simple Alert confirm
+11:07:24.144 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+11:07:24.694 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+11:07:24.706 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+11:07:24.915 [main] INFO  Utils.MyLogger - Click on prompt button
+11:07:25.250 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:08:54.934 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:08:54.985 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:08:58.495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:09:03.475 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:09:04.016 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:09:04.097 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:09:04.572 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:09:04.573 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:09:05.280 [main] INFO  Utils.MyLogger - Simple Alert confirm
+11:09:05.280 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+11:09:05.972 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+11:09:05.982 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+11:09:06.227 [main] INFO  Utils.MyLogger - Click on prompt button
+11:09:06.548 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:10:12.602 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:10:12.643 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:10:16.239 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:10:21.738 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:10:22.277 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:10:22.355 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:10:23.004 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:10:23.005 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:10:23.486 [main] INFO  Utils.MyLogger - Simple Alert confirm
+11:10:23.486 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+11:10:24.028 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+11:10:24.039 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+11:10:24.303 [main] INFO  Utils.MyLogger - Click on prompt button
+11:10:24.632 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:21:12.388 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:21:12.428 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:21:15.881 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:21:21.219 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:21:21.797 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:21:21.914 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:21:22.476 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:21:22.477 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:21:27.667 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:21:37.948 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:21:37.997 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:21:41.001 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:21:46.546 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:21:47.099 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:21:47.171 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:21:47.770 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:21:47.770 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:21:48.595 [main] INFO  Utils.MyLogger - Simple Alert confirm
+11:21:48.596 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+11:21:48.929 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+11:21:48.943 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+11:21:49.180 [main] INFO  Utils.MyLogger - Click on prompt button
+11:21:49.511 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:23:24.840 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:23:24.890 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:23:28.441 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:23:34.483 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:23:35.035 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:23:35.124 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:23:35.444 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:23:35.445 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:23:36.215 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+11:23:49.102 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+11:23:49.144 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+11:23:52.332 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+11:23:58.342 [main] INFO  Utils.MyLogger - Start of the Alerts test
+11:23:58.917 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+11:23:58.996 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+11:23:59.733 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+11:23:59.733 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+11:24:00.102 [main] INFO  Utils.MyLogger - Simple Alert confirm
+11:24:00.103 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+11:24:00.823 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+11:24:00.842 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+11:24:01.094 [main] INFO  Utils.MyLogger - Click on prompt button
+11:24:01.423 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+12:05:05.640 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+12:05:05.666 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+12:05:08.161 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+12:05:12.887 [main] INFO  Utils.MyLogger - Start of the Alerts test
+12:05:13.198 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+12:05:13.295 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+12:05:13.594 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+12:05:13.594 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+12:05:14.155 [main] INFO  Utils.MyLogger - Simple Alert confirm
+12:05:14.155 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+12:05:14.346 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+12:05:14.351 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+12:05:14.747 [main] INFO  Utils.MyLogger - Click on prompt button
+12:05:14.893 [main] INFO  Utils.MyLogger - Send a random util to the prompt boxxyyitiih
+12:05:15.042 [main] INFO  Utils.MyLogger - Start of the Frames test
+12:05:16.287 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+12:06:49.677 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+12:06:49.715 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+12:06:52.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+12:06:58.043 [main] INFO  Utils.MyLogger - Start of the Alerts test
+12:06:58.328 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+12:06:58.472 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+12:06:59.099 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+12:06:59.100 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+12:06:59.352 [main] INFO  Utils.MyLogger - Simple Alert confirm
+12:06:59.352 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+12:06:59.545 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+12:06:59.551 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+12:07:00.021 [main] INFO  Utils.MyLogger - Click on prompt button
+12:07:00.202 [main] INFO  Utils.MyLogger - Send a random util to the prompt boxveyxntef
+12:07:00.405 [main] INFO  Utils.MyLogger - Start of the Frames test
+12:07:00.647 [main] INFO  Utils.MyLogger - Frame Button was clicked
+12:07:00.651 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+12:07:00.771 [AsyncHttpClient-1-4] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259) ~[netty-buffer-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at java.lang.Thread.run(Thread.java:1589) [?:?]
+12:07:52.901 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+12:07:52.941 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+12:07:55.381 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+12:08:00.467 [main] INFO  Utils.MyLogger - Start of the Alerts test
+12:08:00.826 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+12:08:01.007 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+12:08:01.600 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+12:08:01.600 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+12:08:01.945 [main] INFO  Utils.MyLogger - Simple Alert confirm
+12:08:01.945 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+12:08:02.451 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+12:08:02.458 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+12:08:02.614 [main] INFO  Utils.MyLogger - Click on prompt button
+12:08:04.852 [main] INFO  Utils.MyLogger - Send a random util to the prompt boxasjadezx
+12:08:04.997 [main] INFO  Utils.MyLogger - Start of the Frames test
+12:08:06.178 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+12:08:58.170 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+12:08:58.209 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+12:09:01.555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+12:09:05.773 [main] INFO  Utils.MyLogger - Start of the Alerts test
+12:09:06.025 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+12:09:06.176 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+12:09:06.424 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+12:09:06.424 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+12:09:07.007 [main] INFO  Utils.MyLogger - Simple Alert confirm
+12:09:07.008 [main] INFO  Utils.MyLogger - Click on button, confirm box 
+12:09:07.289 [main] INFO  Utils.MyLogger - Click ok on confirmBox
+12:09:07.296 [main] INFO  Utils.MyLogger - Obtain the answer of the clicked actions
+12:09:07.727 [main] INFO  Utils.MyLogger - Click on prompt button
+12:09:09.928 [main] INFO  Utils.MyLogger - Send a random util to the prompt boxfmqehixx
+12:09:10.090 [main] INFO  Utils.MyLogger - Start of the Frames test
+12:09:10.264 [main] INFO  Utils.MyLogger - Frame Button was clicked
+12:09:10.266 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+12:27:45.302 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+12:27:45.338 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+12:27:47.514 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+12:27:52.819 [main] INFO  Utils.MyLogger - Start of the Frames test
+12:27:53.080 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+12:27:53.416 [main] INFO  Utils.MyLogger -  Nested Frame Button was clicked
+12:27:54.118 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+12:56:11.912 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+12:56:11.952 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+12:56:15.363 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+12:56:20.002 [main] INFO  Utils.MyLogger - Start of the Frames test
+12:56:20.238 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+12:56:20.532 [main] INFO  Utils.MyLogger -  Nested Frame Button was clicked
+12:56:20.541 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+12:59:02.903 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+12:59:02.933 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+12:59:05.215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+12:59:10.493 [main] INFO  Utils.MyLogger - Start of the Frames test
+12:59:10.721 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+12:59:10.989 [main] INFO  Utils.MyLogger -  Nested Frame Button was clicked
+12:59:11.626 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+13:00:18.185 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:00:18.223 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:00:20.773 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:00:25.290 [main] INFO  Utils.MyLogger - Start of the Frames test
+13:00:25.516 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+13:00:25.760 [main] INFO  Utils.MyLogger -  Nested Frame Button was clicked
+13:00:26.402 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+13:02:25.791 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:02:25.825 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:02:27.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:02:32.686 [main] INFO  Utils.MyLogger - Start of the Frames test
+13:02:32.926 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+13:02:33.189 [main] INFO  Utils.MyLogger -  Nested Frame Button was clicked
+13:02:33.970 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+13:30:38.578 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:30:38.599 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:30:40.702 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:30:45.620 [main] INFO  Utils.MyLogger - Start of the Frames test
+13:30:45.896 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+13:30:46.197 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+13:30:46.907 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+13:30:46.909 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+13:30:46.954 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+13:34:39.173 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:34:39.224 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:34:43.165 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:34:47.757 [main] INFO  Utils.MyLogger - Start of the Frames test
+13:34:48.324 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+13:34:48.795 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+13:34:50.146 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+13:34:50.147 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+13:34:50.219 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+13:39:23.650 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:39:23.697 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:39:27.320 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:39:33.423 [main] INFO  Utils.MyLogger - Start of the Frames test
+13:39:33.963 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+13:39:35.029 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+13:39:41.167 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+13:42:25.337 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:42:25.383 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:42:28.723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:42:34.185 [main] INFO  Utils.MyLogger - Start of the Frames test
+13:42:34.744 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+13:42:35.310 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+13:42:36.318 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+13:42:36.319 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+13:42:36.399 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+13:43:48.493 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:43:48.559 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:43:52.199 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:43:58.209 [main] INFO  Utils.MyLogger - Start of the Frames test
+13:43:58.776 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+13:43:59.329 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+13:44:00.741 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+13:44:00.742 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+13:44:00.785 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+13:46:09.480 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:46:09.524 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:46:12.925 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:46:18.195 [main] INFO  Utils.MyLogger - Start of the Frames test
+13:46:18.758 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+13:46:19.154 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+13:46:20.286 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+13:46:20.286 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+13:46:20.359 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+13:46:51.943 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:46:51.988 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:46:55.255 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:47:00.732 [main] INFO  Utils.MyLogger - Start of the Frames test
+13:47:01.237 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+13:47:01.709 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+13:47:03.112 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+13:47:03.113 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+13:47:03.158 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+14:00:25.436 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+14:00:25.478 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+14:00:28.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+14:00:34.034 [main] INFO  Utils.MyLogger - Start of the Frames test
+14:00:34.621 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+14:00:35.048 [main] INFO  Utils.MyLogger - Obtain the text of the separated frames
+14:00:35.898 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+14:02:01.667 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+14:02:01.720 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+14:02:05.168 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+14:02:10.820 [main] INFO  Utils.MyLogger - Start of the Frames test
+14:02:11.398 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+14:02:11.896 [main] INFO  Utils.MyLogger - Obtain the text of the separated frames
+14:02:12.743 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+14:03:20.105 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+14:03:20.150 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+14:03:23.617 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+14:03:28.782 [main] INFO  Utils.MyLogger - Start of the Frames test
+14:03:29.434 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+14:03:30.161 [main] INFO  Utils.MyLogger - Obtain the text of the separated frames
+14:03:31.033 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+15:13:35.345 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+15:13:35.390 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+15:13:39.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+15:13:44.632 [main] INFO  Utils.MyLogger - Start of the Frames test
+15:13:45.250 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+15:13:45.793 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+15:13:47.001 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+15:13:47.002 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+15:13:47.059 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+15:16:38.365 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+15:16:38.406 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+15:16:41.812 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+15:16:46.508 [main] INFO  Utils.MyLogger - Start of the Frames test
+15:16:46.985 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+15:16:48.020 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+15:16:49.059 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+15:16:49.069 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+15:16:49.151 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+15:19:14.375 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+15:19:14.417 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+15:19:18.009 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+15:19:26.412 [main] INFO  Utils.MyLogger - Start of the Frames test
+15:19:26.503 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+15:19:52.189 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+15:19:52.233 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+15:19:55.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+15:20:01.255 [main] INFO  Utils.MyLogger - Start of the Frames test
+15:20:02.191 [main] INFO  Utils.MyLogger - Obtain the text of the separated frames
+15:20:03.561 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+15:22:49.190 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+15:22:49.233 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+15:22:51.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+15:22:58.331 [main] INFO  Utils.MyLogger - Start of the Frames test
+15:22:58.556 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+15:22:58.851 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+15:22:59.541 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+15:22:59.547 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+15:22:59.881 [main] INFO  Utils.MyLogger - Obtain the text of the separated frames
+15:23:00.392 [main] INFO  Utils.MyLogger - End of the Alerts test - Browser Quit
+15:39:07.904 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+15:39:07.939 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+15:39:10.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+18:47:14.424 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+18:47:14.476 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+18:47:18.437 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+18:47:24.806 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:47:25.363 [main] INFO  Utils.MyLogger - Check if element Page is open
+18:47:25.429 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:48:40.589 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+18:48:40.641 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+18:48:44.404 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+18:48:49.527 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:48:50.076 [main] INFO  Utils.MyLogger - Check if element Page is open
+18:48:50.130 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:50:32.676 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+18:50:32.719 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+18:50:36.922 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+18:50:41.212 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:50:42.690 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:51:57.919 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+18:51:57.957 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+18:52:02.409 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+18:52:06.001 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:52:06.569 [main] INFO  Utils.MyLogger - Check if element Page is open
+18:52:06.644 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+18:52:07.113 [main] INFO  Utils.MyLogger - Web Table button was clicked
+18:52:07.875 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+18:52:08.075 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:53:48.024 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+18:53:48.068 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+18:53:52.403 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+18:53:58.687 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:53:59.043 [main] INFO  Utils.MyLogger - Check if element Page is open
+18:53:59.260 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+18:53:59.707 [main] INFO  Utils.MyLogger - Web Table button was clicked
+18:54:00.619 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+18:54:00.725 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:54:59.930 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+18:54:59.972 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+18:55:04.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+18:55:08.899 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:55:09.380 [main] INFO  Utils.MyLogger - Check if element Page is open
+18:55:09.468 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+18:55:09.830 [main] INFO  Utils.MyLogger - Web Table button was clicked
+18:55:10.893 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+18:55:12.975 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:59:26.015 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+18:59:26.058 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+18:59:28.891 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+18:59:34.950 [main] INFO  Utils.MyLogger - Start of the Elements test
+18:59:35.172 [main] INFO  Utils.MyLogger - Check if element Page is open
+18:59:35.250 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+18:59:35.627 [main] INFO  Utils.MyLogger - Web Table button was clicked
+18:59:36.157 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+18:59:37.714 [main] INFO  Utils.MyLogger - Start of the Elements test
+19:03:52.694 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+19:03:52.724 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+19:03:55.528 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+19:04:00.083 [main] INFO  Utils.MyLogger - Start of the Elements test
+19:04:00.434 [main] INFO  Utils.MyLogger - Check if element Page is open
+19:04:00.504 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+19:04:00.869 [main] INFO  Utils.MyLogger - Web Table button was clicked
+19:06:38.273 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+19:06:38.305 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+19:06:40.952 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+19:06:47.755 [main] INFO  Utils.MyLogger - Start of the Elements test
+19:06:47.979 [main] INFO  Utils.MyLogger - Check if element Page is open
+19:06:48.023 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+19:06:48.335 [main] INFO  Utils.MyLogger - Web Table button was clicked
+19:06:49.086 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+19:06:50.777 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+19:17:44.369 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+19:17:44.399 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+19:17:46.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+19:17:54.600 [main] INFO  Utils.MyLogger - Start of the Elements test
+19:17:54.833 [main] INFO  Utils.MyLogger - Check if element Page is open
+19:17:54.879 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+19:17:55.230 [main] INFO  Utils.MyLogger - Web Table button was clicked
+19:17:55.796 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+19:17:57.284 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:15:26.965 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+20:15:27.018 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+20:15:31.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+20:15:36.195 [main] INFO  Utils.MyLogger - Start of the Elements test
+20:15:36.716 [main] INFO  Utils.MyLogger - Check if element Page is open
+20:15:36.798 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+20:15:37.324 [main] INFO  Utils.MyLogger - Web Table button was clicked
+20:15:38.175 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:15:41.933 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:20:11.517 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+20:20:11.561 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+20:20:15.447 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+20:20:19.457 [main] INFO  Utils.MyLogger - Start of the Elements test
+20:20:20.067 [main] INFO  Utils.MyLogger - Check if element Page is open
+20:20:20.141 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+20:20:20.690 [main] INFO  Utils.MyLogger - Web Table button was clicked
+20:20:21.426 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:20:24.580 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:21:15.213 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+20:21:15.263 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+20:21:20.008 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+20:21:28.394 [main] INFO  Utils.MyLogger - Start of the Elements test
+20:21:29.122 [main] INFO  Utils.MyLogger - Check if element Page is open
+20:21:29.193 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+20:21:30.175 [main] INFO  Utils.MyLogger - Web Table button was clicked
+20:21:31.191 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:21:33.931 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:26:32.367 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+20:26:32.410 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+20:26:36.528 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+20:26:40.575 [main] INFO  Utils.MyLogger - Start of the Elements test
+20:26:41.201 [main] INFO  Utils.MyLogger - Check if element Page is open
+20:26:41.276 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+20:26:42.150 [main] INFO  Utils.MyLogger - Web Table button was clicked
+20:26:42.872 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:26:46.085 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:42:13.460 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+20:42:13.508 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+20:42:17.826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+20:42:21.524 [main] INFO  Utils.MyLogger - Start of the Elements test
+20:42:22.169 [main] INFO  Utils.MyLogger - Check if element Page is open
+20:42:22.256 [main] INFO  Utils.MyLogger - wait to click on Web Tables Button
+20:42:23.118 [main] INFO  Utils.MyLogger - Web Table button was clicked
+20:42:23.676 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+20:42:26.954 [main] INFO  Utils.MyLogger - ADD button on web table was clicked - and registration form is open
+21:29:32.842 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+21:29:32.901 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+21:29:36.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+21:29:40.817 [main] INFO  Utils.MyLogger - Start of the Frames test
+21:29:41.436 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+21:29:41.452 [main] INFO  Utils.MyLogger - End of Frame test - Browser Quit
+21:30:19.898 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+21:30:19.940 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+21:30:24.250 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+21:30:30.646 [main] INFO  Utils.MyLogger - Start of the Frames test
+21:30:31.171 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+21:30:31.186 [main] INFO  Utils.MyLogger - End of Frame test - Browser Quit
+21:32:10.961 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+21:32:11.007 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+21:32:15.108 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+21:32:19.405 [main] INFO  Utils.MyLogger - Start of the Frames test
+21:32:19.894 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+21:32:19.933 [main] INFO  Utils.MyLogger - End of Frame test - Browser Quit
+21:33:46.551 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+21:33:46.590 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+21:33:50.685 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+21:33:54.525 [main] INFO  Utils.MyLogger - Start of the Frames test
+21:33:54.967 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+21:33:55.352 [main] INFO  Utils.MyLogger -  Click on Nested Frame Button on left panel
+21:33:56.816 [main] INFO  Utils.MyLogger - Obtain the text of the nested frames
+21:33:56.827 [main] INFO  Utils.MyLogger - Click on Frames button on left panel
+21:33:57.036 [main] INFO  Utils.MyLogger - Obtain the text of the separated frames
+21:33:57.556 [main] INFO  Utils.MyLogger - End of the Frames Test
+21:33:57.560 [main] INFO  Utils.MyLogger - End of Frame test - Browser Quit
+15:26:13.775 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+15:26:13.856 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+15:26:19.675 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+15:26:27.274 [main] INFO  Utils.MyLogger - Start of the Handle test
+15:26:27.678 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+15:26:27.919 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+15:29:56.195 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+15:29:56.245 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+15:30:00.337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+15:30:06.146 [main] INFO  Utils.MyLogger - Start of the Handle test
+15:30:06.720 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+15:30:06.910 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+15:33:23.290 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+15:33:23.335 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+15:33:26.994 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+15:33:31.999 [main] INFO  Utils.MyLogger - Start of the Handle test
+15:33:32.619 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+15:33:32.698 [main] INFO  Utils.MyLogger - Click on Browser Windows button on the left panel
+15:33:32.965 [main] INFO  Utils.MyLogger - Click on NewTab button 
+15:33:33.422 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+16:00:24.996 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+16:00:25.034 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+16:00:28.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+16:00:32.832 [main] INFO  Utils.MyLogger - Start of the Handle test
+16:00:33.089 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+16:00:33.134 [main] INFO  Utils.MyLogger - Click on Browser Windows button on the left panel
+16:00:33.358 [main] INFO  Utils.MyLogger - Click on NewTab button 
+16:00:33.547 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+16:01:35.806 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+16:01:35.844 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+16:01:38.120 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+16:01:42.825 [main] INFO  Utils.MyLogger - Start of the Handle test
+16:01:43.055 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+16:01:43.135 [main] INFO  Utils.MyLogger - Click on Browser Windows button on the left panel
+16:01:43.340 [main] INFO  Utils.MyLogger - Click on NewTab button 
+16:01:43.561 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+16:57:05.660 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+16:57:05.710 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+16:57:09.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+16:57:14.453 [main] INFO  Utils.MyLogger - Start of the Handle test
+16:57:15.032 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+16:57:15.118 [main] INFO  Utils.MyLogger - Click on Browser Windows button on the left panel
+16:57:15.476 [main] INFO  Utils.MyLogger - Click on NewTab button 
+16:57:15.935 [main] INFO  Utils.MyLogger - Obtain the index of the new tab1
+16:57:16.074 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+16:58:04.869 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+16:58:04.911 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+16:58:09.157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+16:58:12.918 [main] INFO  Utils.MyLogger - Start of the Handle test
+16:58:13.373 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+16:58:13.442 [main] INFO  Utils.MyLogger - Click on Browser Windows button on the left panel
+16:58:13.688 [main] INFO  Utils.MyLogger - Click on NewTab button 
+16:58:13.920 [main] INFO  Utils.MyLogger - Obtain the index of the new tab0
+16:58:15.836 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+16:58:29.682 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+16:58:29.728 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+16:58:33.407 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+16:58:37.904 [main] INFO  Utils.MyLogger - Start of the Handle test
+16:58:38.435 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+16:58:38.507 [main] INFO  Utils.MyLogger - Click on Browser Windows button on the left panel
+16:58:38.853 [main] INFO  Utils.MyLogger - Click on NewTab button 
+16:58:39.305 [main] INFO  Utils.MyLogger - Obtain the index of the new tab1
+16:58:39.442 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+17:18:41.598 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+17:18:41.635 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+17:18:46.259 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+17:18:51.914 [main] INFO  Utils.MyLogger - Start of the Handle test
+17:18:52.331 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+17:18:52.528 [main] INFO  Utils.MyLogger - Click on Browser Windows button on the left panel
+17:18:52.824 [main] INFO  Utils.MyLogger - Click on NewTab button 
+17:18:53.215 [main] INFO  Utils.MyLogger - Obtain the index of the new tab1
+17:18:53.439 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+17:50:57.120 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+17:50:57.158 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+17:51:02.172 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+17:51:07.317 [main] INFO  Utils.MyLogger - Start of the Handle test
+17:51:07.941 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+17:51:08.298 [main] INFO  Utils.MyLogger - Click on Browser Windows button on the left panel
+17:51:08.665 [main] INFO  Utils.MyLogger - Click on NewTab button 
+17:51:08.986 [main] INFO  Utils.MyLogger - Obtain the index of the new tab0
+17:51:09.234 [AsyncHttpClient-1-4] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259) ~[netty-buffer-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at java.lang.Thread.run(Thread.java:1589) [?:?]
+17:51:09.532 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+17:51:30.084 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+17:51:30.134 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+17:51:34.396 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+17:51:38.122 [main] INFO  Utils.MyLogger - Start of the Handle test
+17:51:38.477 [main] INFO  Utils.MyLogger - Check if Alerts Page is open
+17:51:38.659 [main] INFO  Utils.MyLogger - Click on Browser Windows button on the left panel
+17:51:38.941 [main] INFO  Utils.MyLogger - Click on NewTab button 
+17:51:39.315 [main] INFO  Utils.MyLogger - Obtain the index of the new tab1
+17:51:45.975 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+13:54:42.019 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:54:42.126 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:54:48.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:54:52.671 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+13:54:52.695 [main] INFO  Utils.MyLogger - Start of the Alerts test
+13:54:54.666 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+13:55:20.136 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:55:20.185 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:55:24.594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:55:29.449 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+13:55:29.471 [main] INFO  Utils.MyLogger - Start of the Alerts test
+13:55:31.361 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+13:55:53.260 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:55:53.301 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:55:57.475 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:56:03.595 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+13:56:03.632 [main] INFO  Utils.MyLogger - Start of the Alerts test
+13:56:05.245 [main] INFO  Utils.MyLogger - End of the AlertsPage test - Browser Quit
+16:46:19.719 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+16:46:19.748 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+16:46:22.423 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+16:47:04.015 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+16:47:04.048 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+16:47:06.851 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+19:46:30.028 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+19:46:30.053 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+19:46:33.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+19:46:37.620 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+19:46:37.642 [main] INFO  Utils.MyLogger - Start of the Alerts test
+19:46:39.876 [main] INFO  Utils.MyLogger - End of the test (Teardown)  - Browser Quit
+19:53:28.058 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+19:53:28.090 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+19:53:30.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+19:53:35.613 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+19:53:35.630 [main] INFO  Utils.MyLogger - Start of the Alerts test
+19:53:35.650 [main] INFO  Utils.MyLogger - End of the test (Teardown)  - Browser Quit
+13:57:41.554 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:57:41.599 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:57:44.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:57:49.196 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+13:57:49.217 [main] INFO  Utils.MyLogger - Start of the Alerts test
+13:57:49.217 [main] INFO  Utils.MyLogger -  Click on Alerts, Frame & Windows Page
+13:57:49.277 [main] INFO  Utils.MyLogger - End of the test (Teardown)  - Browser Quit
+13:58:33.068 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:58:33.101 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:58:35.934 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:58:39.969 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+13:58:39.979 [main] INFO  Utils.MyLogger - Start of the Alerts test
+13:58:39.979 [main] INFO  Utils.MyLogger -  Click on Alerts, Frame & Windows Page
+13:58:40.009 [main] INFO  Utils.MyLogger - End of the test (Teardown)  - Browser Quit
+13:59:05.334 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+13:59:05.367 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+13:59:07.778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+13:59:12.392 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+13:59:12.407 [main] INFO  Utils.MyLogger - Start of the Alerts test
+13:59:12.407 [main] INFO  Utils.MyLogger -  Click on Alerts, Frame & Windows Page
+13:59:13.629 [main] INFO  Utils.MyLogger - End of the test (Teardown)  - Browser Quit
+14:01:53.670 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+14:01:53.702 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+14:01:56.243 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+14:02:02.690 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+14:02:02.705 [main] INFO  Utils.MyLogger - Start of the Alerts test
+14:02:02.706 [main] INFO  Utils.MyLogger -  Click on Alerts, Frame & Windows Page
+14:02:08.970 [main] INFO  Utils.MyLogger - End of the test (Teardown)  - Browser Quit
+14:03:08.898 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+14:03:08.933 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+14:03:11.613 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+14:03:17.558 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+14:03:17.573 [main] INFO  Utils.MyLogger - Start of the Alerts test
+14:03:17.573 [main] INFO  Utils.MyLogger -  Click on Alerts, Frame & Windows Page
+14:03:17.913 [main] INFO  Utils.MyLogger - Click on: By.xpath: //h5[contains(text(),'Alerts, Frame & Windows')]/ancestor::div[3]
+14:03:17.913 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+14:03:17.983 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+14:03:18.013 [main] INFO  Utils.MyLogger - //2.1 - Click on Alert Button
+14:03:19.294 [main] INFO  Utils.MyLogger - End of the test (Teardown)  - Browser Quit
+14:04:47.299 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+14:04:47.332 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+14:04:49.880 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+14:04:54.896 [main] INFO  Utils.MyLogger - Go to the main page: https://demoqa.com
+14:04:54.914 [main] INFO  Utils.MyLogger - Start of the Alerts test
+14:04:54.914 [main] INFO  Utils.MyLogger -  Click on Alerts, Frame & Windows Page
+14:04:55.260 [main] INFO  Utils.MyLogger - Click on: By.xpath: //h5[contains(text(),'Alerts, Frame & Windows')]/ancestor::div[3]
+14:04:55.260 [main] INFO  Utils.MyLogger - Check if alerts Page is open
+14:04:55.325 [main] INFO  Utils.MyLogger - wait to click on Alerts Button
+14:04:55.344 [main] INFO  Utils.MyLogger - //2.1 - Click on Alert Button
+14:04:55.485 [main] INFO  Utils.MyLogger - Click on: By.xpath: //span[contains(text(),'Alerts')]
+14:04:55.488 [main] INFO  Utils.MyLogger - Alerts Button was clicked
+14:04:55.489 [main] INFO  Utils.MyLogger - Click on Click me button Alerts 
+14:04:55.693 [main] INFO  Utils.MyLogger - Click on: By.id: alertButton
+14:04:55.717 [main] INFO  Utils.MyLogger - End of the test (Teardown)  - Browser Quit
